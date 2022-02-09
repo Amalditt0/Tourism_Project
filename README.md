@@ -1,6 +1,6 @@
 # firebasessignin
 
-A new Flutter project.
+Simple flutter tourism project using google sign in using firebase
 
 ## Getting Started
 
